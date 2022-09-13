@@ -1,4 +1,4 @@
-# odin-recipes
+# italian-recipes
 
 First HTML project during my journey into coding world
 
